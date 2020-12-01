@@ -15,6 +15,27 @@ CMakeFiles/Shape.dir/karya/bunga.cpp.o
  /home/irvan/CLionProjects/Shape/stroke/stroke.h
  /home/irvan/CLionProjects/Shape/transformation/transformation.h
  /home/irvan/CLionProjects/Shape/util/util.h
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o
+ /home/irvan/CLionProjects/Shape/karya/googleDrive.cpp
+ /home/irvan/CLionProjects/Shape/karya/karya.h
+ /home/irvan/CLionProjects/Shape/shape/shape.h
+ /home/irvan/CLionProjects/Shape/stroke/stroke.h
+ /home/irvan/CLionProjects/Shape/transformation/transformation.h
+ /home/irvan/CLionProjects/Shape/util/util.h
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o
+ /home/irvan/CLionProjects/Shape/karya/karya.h
+ /home/irvan/CLionProjects/Shape/karya/piramidaPersegi.cpp
+ /home/irvan/CLionProjects/Shape/shape/shape.h
+ /home/irvan/CLionProjects/Shape/stroke/stroke.h
+ /home/irvan/CLionProjects/Shape/transformation/transformation.h
+ /home/irvan/CLionProjects/Shape/util/util.h
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o
+ /home/irvan/CLionProjects/Shape/karya/karya.h
+ /home/irvan/CLionProjects/Shape/karya/smileEmoticon.cpp
+ /home/irvan/CLionProjects/Shape/shape/shape.h
+ /home/irvan/CLionProjects/Shape/stroke/stroke.h
+ /home/irvan/CLionProjects/Shape/transformation/transformation.h
+ /home/irvan/CLionProjects/Shape/util/util.h
 CMakeFiles/Shape.dir/main.cpp.o
  /home/irvan/CLionProjects/Shape/karya/karya.h
  /home/irvan/CLionProjects/Shape/main.cpp
@@ -52,6 +73,12 @@ CMakeFiles/Shape.dir/shape/persegi.cpp.o
  /home/irvan/CLionProjects/Shape/stroke/stroke.h
  /home/irvan/CLionProjects/Shape/transformation/transformation.h
  /home/irvan/CLionProjects/Shape/util/util.h
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o
+ /home/irvan/CLionProjects/Shape/shape/segitiga.cpp
+ /home/irvan/CLionProjects/Shape/shape/shape.h
+ /home/irvan/CLionProjects/Shape/stroke/stroke.h
+ /home/irvan/CLionProjects/Shape/transformation/transformation.h
+ /home/irvan/CLionProjects/Shape/util/util.h
 CMakeFiles/Shape.dir/shape/shape.cpp.o
  /home/irvan/CLionProjects/Shape/shape/shape.cpp
  /home/irvan/CLionProjects/Shape/shape/shape.h
@@ -79,6 +106,26 @@ CMakeFiles/Shape.dir/transformation/skalasi.cpp.o
 CMakeFiles/Shape.dir/transformation/translasi.cpp.o
  /home/irvan/CLionProjects/Shape/transformation/transformation.h
  /home/irvan/CLionProjects/Shape/transformation/translasi.cpp
+ /home/irvan/CLionProjects/Shape/util/util.h
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o
+ /home/irvan/CLionProjects/Shape/karya/karya.h
+ /home/irvan/CLionProjects/Shape/shape/shape.h
+ /home/irvan/CLionProjects/Shape/stroke/stroke.h
+ /home/irvan/CLionProjects/Shape/transformation/transformation.h
+ /home/irvan/CLionProjects/Shape/util/karyaMenu.cpp
+ /home/irvan/CLionProjects/Shape/util/util.h
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o
+ /home/irvan/CLionProjects/Shape/karya/karya.h
+ /home/irvan/CLionProjects/Shape/shape/shape.h
+ /home/irvan/CLionProjects/Shape/stroke/stroke.h
+ /home/irvan/CLionProjects/Shape/transformation/transformation.h
+ /home/irvan/CLionProjects/Shape/util/mainMenu.cpp
+ /home/irvan/CLionProjects/Shape/util/util.h
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o
+ /home/irvan/CLionProjects/Shape/shape/shape.h
+ /home/irvan/CLionProjects/Shape/stroke/stroke.h
+ /home/irvan/CLionProjects/Shape/transformation/transformation.h
+ /home/irvan/CLionProjects/Shape/util/shapeMenu.cpp
  /home/irvan/CLionProjects/Shape/util/util.h
 CMakeFiles/Shape.dir/util/util.cpp.o
  /home/irvan/CLionProjects/Shape/shape/shape.h

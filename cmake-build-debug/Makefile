@@ -197,6 +197,87 @@ karya/bunga.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/bunga.cpp.s
 .PHONY : karya/bunga.cpp.s
 
+karya/googleDrive.o: karya/googleDrive.cpp.o
+
+.PHONY : karya/googleDrive.o
+
+# target to build an object file
+karya/googleDrive.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/googleDrive.cpp.o
+.PHONY : karya/googleDrive.cpp.o
+
+karya/googleDrive.i: karya/googleDrive.cpp.i
+
+.PHONY : karya/googleDrive.i
+
+# target to preprocess a source file
+karya/googleDrive.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/googleDrive.cpp.i
+.PHONY : karya/googleDrive.cpp.i
+
+karya/googleDrive.s: karya/googleDrive.cpp.s
+
+.PHONY : karya/googleDrive.s
+
+# target to generate assembly for a file
+karya/googleDrive.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/googleDrive.cpp.s
+.PHONY : karya/googleDrive.cpp.s
+
+karya/piramidaPersegi.o: karya/piramidaPersegi.cpp.o
+
+.PHONY : karya/piramidaPersegi.o
+
+# target to build an object file
+karya/piramidaPersegi.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o
+.PHONY : karya/piramidaPersegi.cpp.o
+
+karya/piramidaPersegi.i: karya/piramidaPersegi.cpp.i
+
+.PHONY : karya/piramidaPersegi.i
+
+# target to preprocess a source file
+karya/piramidaPersegi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.i
+.PHONY : karya/piramidaPersegi.cpp.i
+
+karya/piramidaPersegi.s: karya/piramidaPersegi.cpp.s
+
+.PHONY : karya/piramidaPersegi.s
+
+# target to generate assembly for a file
+karya/piramidaPersegi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.s
+.PHONY : karya/piramidaPersegi.cpp.s
+
+karya/smileEmoticon.o: karya/smileEmoticon.cpp.o
+
+.PHONY : karya/smileEmoticon.o
+
+# target to build an object file
+karya/smileEmoticon.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o
+.PHONY : karya/smileEmoticon.cpp.o
+
+karya/smileEmoticon.i: karya/smileEmoticon.cpp.i
+
+.PHONY : karya/smileEmoticon.i
+
+# target to preprocess a source file
+karya/smileEmoticon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.i
+.PHONY : karya/smileEmoticon.cpp.i
+
+karya/smileEmoticon.s: karya/smileEmoticon.cpp.s
+
+.PHONY : karya/smileEmoticon.s
+
+# target to generate assembly for a file
+karya/smileEmoticon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.s
+.PHONY : karya/smileEmoticon.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -358,6 +439,33 @@ shape/persegi.s: shape/persegi.cpp.s
 shape/persegi.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/shape/persegi.cpp.s
 .PHONY : shape/persegi.cpp.s
+
+shape/segitiga.o: shape/segitiga.cpp.o
+
+.PHONY : shape/segitiga.o
+
+# target to build an object file
+shape/segitiga.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/shape/segitiga.cpp.o
+.PHONY : shape/segitiga.cpp.o
+
+shape/segitiga.i: shape/segitiga.cpp.i
+
+.PHONY : shape/segitiga.i
+
+# target to preprocess a source file
+shape/segitiga.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/shape/segitiga.cpp.i
+.PHONY : shape/segitiga.cpp.i
+
+shape/segitiga.s: shape/segitiga.cpp.s
+
+.PHONY : shape/segitiga.s
+
+# target to generate assembly for a file
+shape/segitiga.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/shape/segitiga.cpp.s
+.PHONY : shape/segitiga.cpp.s
 
 shape/shape.o: shape/shape.cpp.o
 
@@ -521,6 +629,87 @@ transformation/translasi.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/transformation/translasi.cpp.s
 .PHONY : transformation/translasi.cpp.s
 
+util/karyaMenu.o: util/karyaMenu.cpp.o
+
+.PHONY : util/karyaMenu.o
+
+# target to build an object file
+util/karyaMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/karyaMenu.cpp.o
+.PHONY : util/karyaMenu.cpp.o
+
+util/karyaMenu.i: util/karyaMenu.cpp.i
+
+.PHONY : util/karyaMenu.i
+
+# target to preprocess a source file
+util/karyaMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/karyaMenu.cpp.i
+.PHONY : util/karyaMenu.cpp.i
+
+util/karyaMenu.s: util/karyaMenu.cpp.s
+
+.PHONY : util/karyaMenu.s
+
+# target to generate assembly for a file
+util/karyaMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/karyaMenu.cpp.s
+.PHONY : util/karyaMenu.cpp.s
+
+util/mainMenu.o: util/mainMenu.cpp.o
+
+.PHONY : util/mainMenu.o
+
+# target to build an object file
+util/mainMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/mainMenu.cpp.o
+.PHONY : util/mainMenu.cpp.o
+
+util/mainMenu.i: util/mainMenu.cpp.i
+
+.PHONY : util/mainMenu.i
+
+# target to preprocess a source file
+util/mainMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/mainMenu.cpp.i
+.PHONY : util/mainMenu.cpp.i
+
+util/mainMenu.s: util/mainMenu.cpp.s
+
+.PHONY : util/mainMenu.s
+
+# target to generate assembly for a file
+util/mainMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/mainMenu.cpp.s
+.PHONY : util/mainMenu.cpp.s
+
+util/shapeMenu.o: util/shapeMenu.cpp.o
+
+.PHONY : util/shapeMenu.o
+
+# target to build an object file
+util/shapeMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/shapeMenu.cpp.o
+.PHONY : util/shapeMenu.cpp.o
+
+util/shapeMenu.i: util/shapeMenu.cpp.i
+
+.PHONY : util/shapeMenu.i
+
+# target to preprocess a source file
+util/shapeMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/shapeMenu.cpp.i
+.PHONY : util/shapeMenu.cpp.i
+
+util/shapeMenu.s: util/shapeMenu.cpp.s
+
+.PHONY : util/shapeMenu.s
+
+# target to generate assembly for a file
+util/shapeMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shape.dir/build.make CMakeFiles/Shape.dir/util/shapeMenu.cpp.s
+.PHONY : util/shapeMenu.cpp.s
+
 util/util.o: util/util.cpp.o
 
 .PHONY : util/util.o
@@ -563,6 +752,15 @@ help:
 	@echo "... karya/bunga.o"
 	@echo "... karya/bunga.i"
 	@echo "... karya/bunga.s"
+	@echo "... karya/googleDrive.o"
+	@echo "... karya/googleDrive.i"
+	@echo "... karya/googleDrive.s"
+	@echo "... karya/piramidaPersegi.o"
+	@echo "... karya/piramidaPersegi.i"
+	@echo "... karya/piramidaPersegi.s"
+	@echo "... karya/smileEmoticon.o"
+	@echo "... karya/smileEmoticon.i"
+	@echo "... karya/smileEmoticon.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -581,6 +779,9 @@ help:
 	@echo "... shape/persegi.o"
 	@echo "... shape/persegi.i"
 	@echo "... shape/persegi.s"
+	@echo "... shape/segitiga.o"
+	@echo "... shape/segitiga.i"
+	@echo "... shape/segitiga.s"
 	@echo "... shape/shape.o"
 	@echo "... shape/shape.i"
 	@echo "... shape/shape.s"
@@ -599,6 +800,15 @@ help:
 	@echo "... transformation/translasi.o"
 	@echo "... transformation/translasi.i"
 	@echo "... transformation/translasi.s"
+	@echo "... util/karyaMenu.o"
+	@echo "... util/karyaMenu.i"
+	@echo "... util/karyaMenu.s"
+	@echo "... util/mainMenu.o"
+	@echo "... util/mainMenu.i"
+	@echo "... util/mainMenu.s"
+	@echo "... util/shapeMenu.o"
+	@echo "... util/shapeMenu.i"
+	@echo "... util/shapeMenu.s"
 	@echo "... util/util.o"
 	@echo "... util/util.i"
 	@echo "... util/util.s"

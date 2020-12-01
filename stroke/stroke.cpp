@@ -86,7 +86,7 @@ void DDALine(float x1, float y1, float x2, float y2, int jenis, int tebal, strin
         }
         x += dx;
         y += dy;
-//        usleep(1*1000);
+//        usleep(10*1000);
     }
 }
 void drawPattern ( int x, int y, int k, int type, int color)

@@ -23,6 +23,7 @@ void TrapesiumSiku::reloadMatrix(){
     mat[1][0] = (float)(x+a);    mat[1][1] = (float)y;
     mat[2][0] = (float)x;        mat[2][1] = (float)(y+height);
     mat[3][0] = (float)(x+b);    mat[3][1] = (float)(y+height);
+    setRotate(sudut,searah);
 }
 void TrapesiumSiku::setX(int newX){
     x = newX;
@@ -48,7 +49,9 @@ void TrapesiumSiku::setColor (int color){
     warna = color;
 }
 void TrapesiumSiku::setRotate(int angle, bool clockwise){
-    rotasiGaris(mat,mat[0][0],mat[0][1],rowNum,angle,clockwise);
+    sudut = angle;
+    searah = clockwise;
+    rotasiGaris(mat,mat[0][0],mat[0][1],rowNum,sudut,searah);
 }
 void TrapesiumSiku::setTranslation(float tx, float ty){
     float T[2] = {tx,ty};

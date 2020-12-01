@@ -52,9 +52,9 @@ void Ellipsee::setRy(int newRy) {
     ry = newRy;
 }
 
-void Ellipsee::setAlpha(int newAlpha, bool searah) {
-    alpha = newAlpha;
-    clockwise = searah;
+void Ellipsee::setAlpha(int newAlpha, bool clockwise) {
+    sudut = newAlpha;
+    searah = clockwise;
 }
 void Ellipsee::setColor(int color) {
     warna = color;
@@ -69,7 +69,7 @@ void Ellipsee::draw() {
     float P[][2]={
             {(float)xp, (float)yp}
     };
-    rotasiGaris(P,P[0][0],P[0][1],1,alpha,clockwise);
+    rotasiGaris(P,P[0][0],P[0][1],1,sudut,searah);
     beforeDraw(P[0][0],P[0][1],rx,ry);
 }
 
@@ -87,7 +87,7 @@ void Ellipsee::beforeDraw(int xc, int yc, int radius_x, int radius_y) {
     // For region 1
     while (dx < dy)
     {
-        drawPlot(xc,yc,x,y,alpha,clockwise);
+        drawPlot(xc,yc,x,y,sudut,searah);
         // Checking and updating value of
         // decision parameter based on algorithm
         if (d1 < 0)
@@ -115,7 +115,7 @@ void Ellipsee::beforeDraw(int xc, int yc, int radius_x, int radius_y) {
     while (y >= 0)
     {
 
-        drawPlot(xc,yc,x,y,alpha,clockwise);
+        drawPlot(xc,yc,x,y,sudut,searah);
 
         // Checking and updating parameter
         // value based on algorithm

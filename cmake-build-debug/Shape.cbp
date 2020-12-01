@@ -88,7 +88,16 @@
 		<Unit filename="/home/irvan/CLionProjects/Shape/karya/bunga.cpp">
 			<Option target="Shape"/>
 		</Unit>
+		<Unit filename="/home/irvan/CLionProjects/Shape/karya/googleDrive.cpp">
+			<Option target="Shape"/>
+		</Unit>
 		<Unit filename="/home/irvan/CLionProjects/Shape/karya/karya.h">
+			<Option target="Shape"/>
+		</Unit>
+		<Unit filename="/home/irvan/CLionProjects/Shape/karya/piramidaPersegi.cpp">
+			<Option target="Shape"/>
+		</Unit>
+		<Unit filename="/home/irvan/CLionProjects/Shape/karya/smileEmoticon.cpp">
 			<Option target="Shape"/>
 		</Unit>
 		<Unit filename="/home/irvan/CLionProjects/Shape/main.cpp">
@@ -107,6 +116,9 @@
 			<Option target="Shape"/>
 		</Unit>
 		<Unit filename="/home/irvan/CLionProjects/Shape/shape/persegi.cpp">
+			<Option target="Shape"/>
+		</Unit>
+		<Unit filename="/home/irvan/CLionProjects/Shape/shape/segitiga.cpp">
 			<Option target="Shape"/>
 		</Unit>
 		<Unit filename="/home/irvan/CLionProjects/Shape/shape/shape.cpp">
@@ -134,6 +146,15 @@
 			<Option target="Shape"/>
 		</Unit>
 		<Unit filename="/home/irvan/CLionProjects/Shape/transformation/translasi.cpp">
+			<Option target="Shape"/>
+		</Unit>
+		<Unit filename="/home/irvan/CLionProjects/Shape/util/karyaMenu.cpp">
+			<Option target="Shape"/>
+		</Unit>
+		<Unit filename="/home/irvan/CLionProjects/Shape/util/mainMenu.cpp">
+			<Option target="Shape"/>
+		</Unit>
+		<Unit filename="/home/irvan/CLionProjects/Shape/util/shapeMenu.cpp">
 			<Option target="Shape"/>
 		</Unit>
 		<Unit filename="/home/irvan/CLionProjects/Shape/util/util.cpp">

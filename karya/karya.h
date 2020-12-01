@@ -19,4 +19,8 @@ void animasiBunga2();
 void animasiEllipse();
 void Loading();
 void animasiBunga3();
+void piramidaPersegi();
+void logoGoogleDrive();
+void gambarSmile();
+void batikUTS();
 #endif //SHAPE_KARYA_H

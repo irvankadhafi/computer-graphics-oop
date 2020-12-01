@@ -142,7 +142,7 @@ void animasiBunga2(){
         setvisualpage(1-page);
         page = 1 - page;
         cleardevice();
-        usleep(5*1000);
+        usleep(50*1000);
     }
     setactivepage(0);
     setvisualpage(0);
@@ -159,7 +159,7 @@ void animasiBunga2(){
         setvisualpage(1-page);
         page = 1 - page;
         cleardevice();
-        usleep(5*1000);
+        usleep(50*1000);
     }
     setactivepage(0);
     setvisualpage(0);
@@ -176,7 +176,7 @@ void animasiBunga2(){
         setvisualpage(1-page);
         page = 1 - page;
         cleardevice();
-        usleep(5*1000);
+        usleep(50*1000);
     }
     setactivepage(0);
     setvisualpage(0);
@@ -193,7 +193,7 @@ void animasiBunga2(){
         setvisualpage(1-page);
         page = 1 - page;
         cleardevice();
-        usleep(5*1000);
+        usleep(50*1000);
     }
     setactivepage(0);
     setvisualpage(0);
@@ -216,7 +216,7 @@ void animasiBunga2(){
     motifBungaGabung(bunga[3][0],bunga[3][1],RED);
     usleep(10*1000);
     motifBungaGabung(bunga[4][0],bunga[4][1],RED);
-    usleep(50*1000);
+    usleep(100*1000);
     cleardevice();
 }
 void animasiEllipse(){
@@ -233,11 +233,11 @@ void animasiEllipse(){
         setvisualpage(1-page);
         page = 1 - page;
         cleardevice();
-        usleep(5*1000);
+        usleep(50*1000);
     }
-    usleep(50*1000);
     setactivepage(0);
     setvisualpage(0);
+    usleep(50*1000);
     cleardevice();
 }
 void Loading(){
@@ -320,4 +320,12 @@ void animasiBunga3(){
     motifBunga1(x-145-2,y+145,12, i,col);
     motifBunga1(x-75,y+75-2+145,12, i,col);
     motifBunga1(x-75,y-75+2+145,12, i,col);
+}
+void batikUTS(){
+    Loading();
+    animasiBunga1();
+    animasiBunga2();
+    animasiEllipse();
+    animasiBunga3();
+    batik(RED);
 }

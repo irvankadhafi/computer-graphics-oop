@@ -16,6 +16,7 @@ void BelahKetupat::reloadMatrix(){
     mat[1][0] = (float)(x+diagonal1);           mat[1][1] = (float)(y-diagonal2);
     mat[2][0] = (float)(x+diagonal1);             mat[2][1] = (float)(y+diagonal2);
     mat[3][0] = (float)(x+diagonal1+diagonal1); mat[3][1] = (float)y;
+    setRotate(sudut,searah);
 }
 void BelahKetupat::setX(int newX){
     x = newX;
@@ -37,7 +38,9 @@ void BelahKetupat::setColor (int color){
     warna = color;
 }
 void BelahKetupat::setRotate(int angle, bool clockwise){
-    rotasiGaris(mat,mat[0][0],mat[0][1],rowNum,angle,clockwise);
+    sudut = angle;
+    searah = clockwise;
+    rotasiGaris(mat,mat[0][0],mat[0][1],rowNum,sudut,searah);
 }
 void BelahKetupat::setTranslation(float tx, float ty){
     float T[2] = {tx,ty};

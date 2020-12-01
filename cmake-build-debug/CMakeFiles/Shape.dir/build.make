@@ -272,6 +272,97 @@ CMakeFiles/Shape.dir/transformation/skalasi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/transformation/skalasi.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/transformation/skalasi.cpp -o CMakeFiles/Shape.dir/transformation/skalasi.cpp.s
 
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: CMakeFiles/Shape.dir/flags.make
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: ../util/mainMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Shape.dir/util/mainMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Shape.dir/util/mainMenu.cpp.o -c /home/irvan/CLionProjects/Shape/util/mainMenu.cpp
+
+CMakeFiles/Shape.dir/util/mainMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Shape.dir/util/mainMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/irvan/CLionProjects/Shape/util/mainMenu.cpp > CMakeFiles/Shape.dir/util/mainMenu.cpp.i
+
+CMakeFiles/Shape.dir/util/mainMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/util/mainMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/util/mainMenu.cpp -o CMakeFiles/Shape.dir/util/mainMenu.cpp.s
+
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o: CMakeFiles/Shape.dir/flags.make
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o: ../util/shapeMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Shape.dir/util/shapeMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Shape.dir/util/shapeMenu.cpp.o -c /home/irvan/CLionProjects/Shape/util/shapeMenu.cpp
+
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Shape.dir/util/shapeMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/irvan/CLionProjects/Shape/util/shapeMenu.cpp > CMakeFiles/Shape.dir/util/shapeMenu.cpp.i
+
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/util/shapeMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/util/shapeMenu.cpp -o CMakeFiles/Shape.dir/util/shapeMenu.cpp.s
+
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o: CMakeFiles/Shape.dir/flags.make
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o: ../shape/segitiga.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Shape.dir/shape/segitiga.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Shape.dir/shape/segitiga.cpp.o -c /home/irvan/CLionProjects/Shape/shape/segitiga.cpp
+
+CMakeFiles/Shape.dir/shape/segitiga.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Shape.dir/shape/segitiga.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/irvan/CLionProjects/Shape/shape/segitiga.cpp > CMakeFiles/Shape.dir/shape/segitiga.cpp.i
+
+CMakeFiles/Shape.dir/shape/segitiga.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/shape/segitiga.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/shape/segitiga.cpp -o CMakeFiles/Shape.dir/shape/segitiga.cpp.s
+
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: CMakeFiles/Shape.dir/flags.make
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: ../util/karyaMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Shape.dir/util/karyaMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Shape.dir/util/karyaMenu.cpp.o -c /home/irvan/CLionProjects/Shape/util/karyaMenu.cpp
+
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Shape.dir/util/karyaMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/irvan/CLionProjects/Shape/util/karyaMenu.cpp > CMakeFiles/Shape.dir/util/karyaMenu.cpp.i
+
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/util/karyaMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/util/karyaMenu.cpp -o CMakeFiles/Shape.dir/util/karyaMenu.cpp.s
+
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: CMakeFiles/Shape.dir/flags.make
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: ../karya/piramidaPersegi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o -c /home/irvan/CLionProjects/Shape/karya/piramidaPersegi.cpp
+
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/irvan/CLionProjects/Shape/karya/piramidaPersegi.cpp > CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.i
+
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/karya/piramidaPersegi.cpp -o CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.s
+
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: CMakeFiles/Shape.dir/flags.make
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: ../karya/googleDrive.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Shape.dir/karya/googleDrive.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Shape.dir/karya/googleDrive.cpp.o -c /home/irvan/CLionProjects/Shape/karya/googleDrive.cpp
+
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Shape.dir/karya/googleDrive.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/irvan/CLionProjects/Shape/karya/googleDrive.cpp > CMakeFiles/Shape.dir/karya/googleDrive.cpp.i
+
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/karya/googleDrive.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/karya/googleDrive.cpp -o CMakeFiles/Shape.dir/karya/googleDrive.cpp.s
+
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: CMakeFiles/Shape.dir/flags.make
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: ../karya/smileEmoticon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o -c /home/irvan/CLionProjects/Shape/karya/smileEmoticon.cpp
+
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/irvan/CLionProjects/Shape/karya/smileEmoticon.cpp > CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.i
+
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/irvan/CLionProjects/Shape/karya/smileEmoticon.cpp -o CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.s
+
 # Object files for target Shape
 Shape_OBJECTS = \
 "CMakeFiles/Shape.dir/main.cpp.o" \
@@ -288,7 +379,14 @@ Shape_OBJECTS = \
 "CMakeFiles/Shape.dir/karya/bunga.cpp.o" \
 "CMakeFiles/Shape.dir/shape/ellipse.cpp.o" \
 "CMakeFiles/Shape.dir/karya/batikUTS.cpp.o" \
-"CMakeFiles/Shape.dir/transformation/skalasi.cpp.o"
+"CMakeFiles/Shape.dir/transformation/skalasi.cpp.o" \
+"CMakeFiles/Shape.dir/util/mainMenu.cpp.o" \
+"CMakeFiles/Shape.dir/util/shapeMenu.cpp.o" \
+"CMakeFiles/Shape.dir/shape/segitiga.cpp.o" \
+"CMakeFiles/Shape.dir/util/karyaMenu.cpp.o" \
+"CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o" \
+"CMakeFiles/Shape.dir/karya/googleDrive.cpp.o" \
+"CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o"
 
 # External object files for target Shape
 Shape_EXTERNAL_OBJECTS =
@@ -308,9 +406,16 @@ Shape: CMakeFiles/Shape.dir/karya/bunga.cpp.o
 Shape: CMakeFiles/Shape.dir/shape/ellipse.cpp.o
 Shape: CMakeFiles/Shape.dir/karya/batikUTS.cpp.o
 Shape: CMakeFiles/Shape.dir/transformation/skalasi.cpp.o
+Shape: CMakeFiles/Shape.dir/util/mainMenu.cpp.o
+Shape: CMakeFiles/Shape.dir/util/shapeMenu.cpp.o
+Shape: CMakeFiles/Shape.dir/shape/segitiga.cpp.o
+Shape: CMakeFiles/Shape.dir/util/karyaMenu.cpp.o
+Shape: CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o
+Shape: CMakeFiles/Shape.dir/karya/googleDrive.cpp.o
+Shape: CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o
 Shape: CMakeFiles/Shape.dir/build.make
 Shape: CMakeFiles/Shape.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable Shape"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable Shape"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Shape.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

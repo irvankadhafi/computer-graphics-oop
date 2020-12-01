@@ -16,6 +16,8 @@ private:
     int lebar;
     int warna = 2;
     float mat[4][2];
+    int sudut = 0;
+    bool searah = false;
     int rowNum = sizeof(mat)/sizeof(mat[0]);
 public:
     Persegi(int x0, int y0, int width, int height);
@@ -38,6 +40,8 @@ private:
     int tinggi;
     int warna = 2;
     float mat[4][2];
+    int sudut = 0;
+    bool searah = false;
     int rowNum = sizeof(mat)/sizeof(mat[0]);
 public:
     JajarGenjang(int x0, int y0, int width, int height);
@@ -61,6 +65,8 @@ private:
     int height;
     int warna = 2;
     float mat[4][2];
+    int sudut = 0;
+    bool searah = false;
     int rowNum = sizeof(mat)/sizeof(mat[0]);
 public:
     TrapesiumSiku(int x0, int y0, int sisi_atas, int sisi_bawah, int tinggi);
@@ -84,6 +90,8 @@ private:
     int diagonal2;
     int warna = 2;
     float mat[4][2];
+    int sudut = 0;
+    bool searah = false;
     int rowNum = sizeof(mat)/sizeof(mat[0]);
 public:
     BelahKetupat(int x0, int y0, int d1, int d2);
@@ -124,14 +132,11 @@ private:
     int yp;
     int rx;
     int ry;
-    int alpha = 0;
+    int sudut = 0;
     int warna = 1;
-    bool clockwise;
-
+    bool searah;
     void drawPlot(int midX, int midY, int x, int y, int angle, bool clockwise);
-
     void beforeDraw(int xp, int yp, int radius_x, int radius_y);
-
 public:
     Ellipsee(int x, int y, int radius_x, int radius_y);
     Ellipsee();
@@ -140,8 +145,33 @@ public:
     void setYp(int newYp);
     void setRx(int newRx);
     void setRy(int newRy);
-    void setAlpha(int newAlpha, bool searah);
+    void setAlpha(int newAlpha, bool clockwise);
     void setColor(int color);
+    void setTranslation(float tx, float ty);
+    void draw ();
+};
+class Segitiga{
+private:
+    int x;
+    int y;
+    int alas;
+    int tinggi;
+    int warna = 2;
+    float mat[3][2];
+    int sudut = 0;
+    bool searah = false;
+    bool siku = true;
+    int rowNum = sizeof(mat)/sizeof(mat[0]);
+public:
+    Segitiga(int x0, int y0, int a, int t);
+    void reloadMatrix();
+    void setX(int newX);
+    void setY(int newY);
+    void setAlas (int newAlas);
+    void setTinggi (int newTinggi);
+    void setColor (int color);
+    void setSiku(bool segitigaSiku);
+    void setRotate(int angle, bool clockwise);
     void setTranslation(float tx, float ty);
     void draw ();
 };

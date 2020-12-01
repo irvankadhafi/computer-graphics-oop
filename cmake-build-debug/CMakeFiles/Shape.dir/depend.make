@@ -15,6 +15,27 @@ CMakeFiles/Shape.dir/karya/bunga.cpp.o: ../stroke/stroke.h
 CMakeFiles/Shape.dir/karya/bunga.cpp.o: ../transformation/transformation.h
 CMakeFiles/Shape.dir/karya/bunga.cpp.o: ../util/util.h
 
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: ../karya/googleDrive.cpp
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: ../karya/karya.h
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: ../shape/shape.h
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: ../stroke/stroke.h
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: ../transformation/transformation.h
+CMakeFiles/Shape.dir/karya/googleDrive.cpp.o: ../util/util.h
+
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: ../karya/karya.h
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: ../karya/piramidaPersegi.cpp
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: ../shape/shape.h
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: ../stroke/stroke.h
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: ../transformation/transformation.h
+CMakeFiles/Shape.dir/karya/piramidaPersegi.cpp.o: ../util/util.h
+
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: ../karya/karya.h
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: ../karya/smileEmoticon.cpp
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: ../shape/shape.h
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: ../stroke/stroke.h
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: ../transformation/transformation.h
+CMakeFiles/Shape.dir/karya/smileEmoticon.cpp.o: ../util/util.h
+
 CMakeFiles/Shape.dir/main.cpp.o: ../karya/karya.h
 CMakeFiles/Shape.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Shape.dir/main.cpp.o: ../shape/shape.h
@@ -52,6 +73,12 @@ CMakeFiles/Shape.dir/shape/persegi.cpp.o: ../stroke/stroke.h
 CMakeFiles/Shape.dir/shape/persegi.cpp.o: ../transformation/transformation.h
 CMakeFiles/Shape.dir/shape/persegi.cpp.o: ../util/util.h
 
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o: ../shape/segitiga.cpp
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o: ../shape/shape.h
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o: ../stroke/stroke.h
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o: ../transformation/transformation.h
+CMakeFiles/Shape.dir/shape/segitiga.cpp.o: ../util/util.h
+
 CMakeFiles/Shape.dir/shape/shape.cpp.o: ../shape/shape.cpp
 CMakeFiles/Shape.dir/shape/shape.cpp.o: ../shape/shape.h
 CMakeFiles/Shape.dir/shape/shape.cpp.o: ../stroke/stroke.h
@@ -79,6 +106,26 @@ CMakeFiles/Shape.dir/transformation/skalasi.cpp.o: ../util/util.h
 CMakeFiles/Shape.dir/transformation/translasi.cpp.o: ../transformation/transformation.h
 CMakeFiles/Shape.dir/transformation/translasi.cpp.o: ../transformation/translasi.cpp
 CMakeFiles/Shape.dir/transformation/translasi.cpp.o: ../util/util.h
+
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: ../karya/karya.h
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: ../shape/shape.h
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: ../stroke/stroke.h
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: ../transformation/transformation.h
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: ../util/karyaMenu.cpp
+CMakeFiles/Shape.dir/util/karyaMenu.cpp.o: ../util/util.h
+
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: ../karya/karya.h
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: ../shape/shape.h
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: ../stroke/stroke.h
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: ../transformation/transformation.h
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: ../util/mainMenu.cpp
+CMakeFiles/Shape.dir/util/mainMenu.cpp.o: ../util/util.h
+
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o: ../shape/shape.h
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o: ../stroke/stroke.h
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o: ../transformation/transformation.h
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o: ../util/shapeMenu.cpp
+CMakeFiles/Shape.dir/util/shapeMenu.cpp.o: ../util/util.h
 
 CMakeFiles/Shape.dir/util/util.cpp.o: ../shape/shape.h
 CMakeFiles/Shape.dir/util/util.cpp.o: ../stroke/stroke.h

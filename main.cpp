@@ -5,12 +5,8 @@
 
 int main() {
     makeWindow(1000,700,(char*)"Irvan Kadhafi Canvas");
-    Loading();
-    animasiBunga1();
-    animasiBunga2();
-    animasiEllipse();
-    animasiBunga3();
-    batik(RED);
+    mainMenu();
+
     getch();
     return 0;
 }
