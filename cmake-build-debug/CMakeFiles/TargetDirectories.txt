@@ -1,0 +1,3 @@
+/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/irvan/CLionProjects/Shape/cmake-build-debug/CMakeFiles/Shape.dir
